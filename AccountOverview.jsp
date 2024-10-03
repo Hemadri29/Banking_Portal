@@ -1,7 +1,6 @@
 <%@ page import="java.io.*" %>
 <%@ page import="java.util.*" %>
 <%@ page import="java.lang.*" %>
-<%@ page import="Com.Gandhi.*;" %>
 
 <%
 String UName = new String("");
